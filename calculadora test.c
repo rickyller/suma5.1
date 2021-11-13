@@ -3,5 +3,5 @@
 
 int main()
 {
-    
+  int n,n1,r;  
 }
