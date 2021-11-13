@@ -12,5 +12,5 @@ int main()
 
   r = n + n1;
 
-  printf("El resultado es: %i",r);
+  printf("Resultado es: %i",r);
 }
