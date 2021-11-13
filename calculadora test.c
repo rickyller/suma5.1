@@ -7,4 +7,6 @@ int main()
 
   printf("Inserte numero 1: ");
   scanf("%i",&n);
+  printf("Inserte numero 2: ");
+  scanf("%i",&n1);
 }
